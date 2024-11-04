@@ -24,6 +24,8 @@ Presentation (.pptx): The PowerPoint presentation summarizes the project finding
 
 PowerBI Files (.pbix): The PowerBI dashboards used for analysis. These files can be opened in PowerBI Desktop for further exploration or modifications.
 
+Video Presentation (.zip): The video presentation explains the key insights from the project.
+
 
 Future Work and Implementation:
 Our future work focuses on:
